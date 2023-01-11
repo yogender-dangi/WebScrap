@@ -1,0 +1,4 @@
+Book Name:
+Book Name:SetMeFree
+Price:17.46
+Link for more info:https://books.toscrape.com/catalogue/set-me-free_988/index.html
